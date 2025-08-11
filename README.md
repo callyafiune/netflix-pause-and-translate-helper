@@ -9,8 +9,6 @@ O **Pause-and-Translate Method** consiste em:
 
 Essa extensão automatiza parte desse processo, tornando a prática mais fluida.
 
----
-
 ## ✨ Funcionalidades
 
 - **Atalho `W`** → Retrocede **5 segundos** no vídeo.
@@ -23,17 +21,13 @@ Essa extensão automatiza parte desse processo, tornando a prática mais fluida.
 - Detecção automática do player da Netflix.
 - Executa no **contexto da página**, acessando APIs internas para troca de legenda de forma imediata.
 
----
-
 ## 📦 Instalação
 
-1. Baixe o repositório ou o ZIP mais recente na aba [Releases](../../releases).
+1. Baixe o repositório.
 2. Extraia os arquivos em uma pasta local.
 3. No Chrome, acesse `chrome://extensions` e ative o **Modo do desenvolvedor**.
 4. Clique em **Carregar sem compactação** e selecione a pasta do projeto.
 5. Abra qualquer título da Netflix (`https://www.netflix.com/watch/...`) e use os atalhos.
-
----
 
 ## 🛠️ Como usar
 
@@ -45,21 +39,15 @@ Essa extensão automatiza parte desse processo, tornando a prática mais fluida.
      - Pressione **Q** novamente → muda para português e pausa.
   4. Use **W** para voltar 5 segundos sempre que quiser repetir.
 
----
-
 ## 📋 Requisitos
 
 - Google Chrome (ou navegador compatível com extensões do Chrome).
 - Conta Netflix.
 - A obra deve ter legendas disponíveis em português e inglês.
 
----
-
 ## 📜 Licença
 
 Este projeto é distribuído sob a licença MIT.  
 Sinta-se livre para modificar e contribuir.
-
----
 
 💡 **Dica**: Combine com ferramentas de tradução e anotações de vocabulário para potencializar o aprendizado.
